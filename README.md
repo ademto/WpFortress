@@ -30,7 +30,7 @@ A simple, powerful Python-based CLI tool that uses WPScan and its API to scan Wo
 
 ```bash
 git clone https://github.com/ademto/WpFortress.git
-cd WpFotress
+cd WpFortress
 chmod +x scanwp.py
 ```
 
