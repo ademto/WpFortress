@@ -131,7 +131,7 @@ wordpress-scanner-cli/
 
 **Emmanuel Adetoro**  
 [LinkedIn](https://www.linkedin.com/in/emmanuel-adetoro/)  
-[GitHub](https://github.com/YOUR_USERNAME)
+[GitHub](https://github.com/ademto)
 
 ---
 
