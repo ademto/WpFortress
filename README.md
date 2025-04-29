@@ -135,11 +135,11 @@ wordpress-scanner-cli/
 
 ---
 
-## 🪪 License
+## ✨ Upcoming Features
 
-This project is licensed under the [MIT License](LICENSE).
-
----
+- Testing website safety against "RockYou" password lists
+- Integrating AI to provide tailored security recommendations
+- A web version for easier accessibility
 
 ## 🙌 Contribute
 
