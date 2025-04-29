@@ -4,6 +4,12 @@ A simple, powerful Python-based CLI tool that uses WPScan and its API to scan Wo
 
 ---
 
+## 🎥 Demo Video
+
+Check out this demonstration of WpFortress in action:
+
+[![WpFortress Demo Video](https://img.youtube.com/vi/iyy-U2rI8hk/0.jpg)](https://youtu.be/iyy-U2rI8hk?si=nSNo1YkG3z1SXSsb)
+
 ## 🚀 Features
 
 - 🧠 **Smart CLI** – Prompts for URL, no flags needed
